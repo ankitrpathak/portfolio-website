@@ -6,6 +6,6 @@
 
  <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé and story</p>
 
-![My Portfolio Website](https://raw.githubusercontent.com/ankitrpathak/portfolio-website/master/portfolio_snapshot.jpg)
+<img src="portfolio_snapshot.png" alt="My Portfolio Website's snapshot"></img>
 
 Please hit me up at ankitraj.ofc@gmail.com if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
